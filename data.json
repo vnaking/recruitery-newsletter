@@ -1,0 +1,497 @@
+[
+  {
+    "CreatedDate": "2019-09-25T17:45:00.000Z",
+    "Company": "Edmicro ",
+    "Name": "Product Marketing Manager",
+    "Salary": "1000-1500",
+    "Reward": 22000000,
+    "City": "HN",
+    "Link": "https://recruitery.co/job/product-marketing-manager-535.html"
+  },
+  {
+    "CreatedDate": "2019-09-24T13:56:00.000Z",
+    "Company": "Triip.me",
+    "Name": "Senior Automation QC",
+    "Salary": "1500-2000",
+    "Reward": 24000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-automation-qc-534.html"
+  },
+  {
+    "CreatedDate": "2019-09-24T13:53:00.000Z",
+    "Company": "Triip.me",
+    "Name": "Senior Mobile Developer (Android)",
+    "Salary": "1500-2000",
+    "Reward": 24000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-mobile-developer-android--533.html"
+  },
+  {
+    "CreatedDate": "2019-09-24T13:52:00.000Z",
+    "Company": "Triip.me",
+    "Name": "Senior Full Stack Developer (Backend & DevOps)",
+    "Salary": "1500-2000",
+    "Reward": 24000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-full-stack-developer-backend-devops--531.html"
+  },
+  {
+    "CreatedDate": "2019-09-23T14:58:00.000Z",
+    "Company": "NHN Vietnam",
+    "Name": "Java Developer",
+    "Salary": "1000-2000",
+    "Reward": 16000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/java-developer-529.html"
+  },
+  {
+    "CreatedDate": "2019-09-19T14:20:00.000Z",
+    "Company": "POBBLE TECH",
+    "Name": "Senior Backend Engineer",
+    "Salary": "1500-3000",
+    "Reward": 24000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-backend-engineer-526.html"
+  },
+  {
+    "CreatedDate": "2019-09-19T10:27:00.000Z",
+    "Company": "I-ON communications",
+    "Name": "Senior Front End Developer ",
+    "Salary": "1500-3000",
+    "Reward": 24000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-front-end-developer-524.html"
+  },
+  {
+    "CreatedDate": "2019-09-18T13:16:00.000Z",
+    "Company": "Papaya Insurtech",
+    "Name": "Mobile Developer - React Native ",
+    "Salary": "1000-1500",
+    "Reward": 16000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/mobile-developer-react-native-523.html"
+  },
+  {
+    "CreatedDate": "2019-09-17T15:17:00.000Z",
+    "Company": "Athena Studio",
+    "Name": "Recruitment Executive (Mobile apps company)",
+    "Salary": "600-0",
+    "Reward": 10000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/recruitment-executive-mobile-apps-company--521.html"
+  },
+  {
+    "CreatedDate": "2019-09-17T15:00:00.000Z",
+    "Company": "I-ON communications",
+    "Name": "Front End Developer ",
+    "Salary": "1000-1500",
+    "Reward": 16000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/front-end-developer-517.html"
+  },
+  {
+    "CreatedDate": "2019-09-15T17:00:00.000Z",
+    "Company": "Waves",
+    "Name": "Senior Mobile App Developer",
+    "Salary": "1100-1700",
+    "Reward": 20000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-mobile-app-developer-514.html"
+  },
+  {
+    "CreatedDate": "2019-09-13T18:12:00.000Z",
+    "Company": "Techcombank",
+    "Name": "CHUYÊN VIÊN KHÁCH HÀNG ƯU TIÊN (PRM) Cấp Cao ",
+    "Salary": "900-1200",
+    "Reward": 15000000,
+    "City": "HN",
+    "Link": "https://recruitery.co/job/chuyen-vien-khach-hang-uu-tien-prm-cap-cao-512.html"
+  },
+  {
+    "CreatedDate": "2019-09-13T18:12:00.000Z",
+    "Company": "Techcombank",
+    "Name": "CHUYÊN VIÊN KHÁCH HÀNG ƯU TIÊN (PRM) Cấp Cao ",
+    "Salary": "900-1200",
+    "Reward": 15000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/chuyen-vien-khach-hang-uu-tien-prm-cap-cao-512.html"
+  },
+  {
+    "CreatedDate": "2019-09-13T18:10:00.000Z",
+    "Company": "Techcombank",
+    "Name": "CHUYÊN VIÊN KHÁCH HÀNG ƯU TIÊN (PRM) ",
+    "Salary": "700-870",
+    "Reward": 11000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/chuyen-vien-khach-hang-uu-tien-prm--510.html"
+  },
+  {
+    "CreatedDate": "2019-09-13T18:10:00.000Z",
+    "Company": "Techcombank",
+    "Name": "CHUYÊN VIÊN KHÁCH HÀNG ƯU TIÊN (PRM) ",
+    "Salary": "700-870",
+    "Reward": 11000000,
+    "City": "HN",
+    "Link": "https://recruitery.co/job/chuyen-vien-khach-hang-uu-tien-prm--510.html"
+  },
+  {
+    "CreatedDate": "2019-09-13T14:27:00.000Z",
+    "Company": "Macaw ",
+    "Name": "Senior Back-end Engineer ",
+    "Salary": "1000-1800",
+    "Reward": 16000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-back-end-engineer-506.html"
+  },
+  {
+    "CreatedDate": "2019-09-11T11:09:00.000Z",
+    "Company": "Saigon Technology Solutions",
+    "Name": "Senior .Net",
+    "Salary": "1300-1800",
+    "Reward": 21000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-net-500.html"
+  },
+  {
+    "CreatedDate": "2019-09-10T16:22:00.000Z",
+    "Company": "Scuti",
+    "Name": "Senior PHP/Laravel",
+    "Salary": "0-1500",
+    "Reward": 24000000,
+    "City": "HN",
+    "Link": "https://recruitery.co/job/senior-php-laravel-497.html"
+  },
+  {
+    "CreatedDate": "2019-09-09T18:52:00.000Z",
+    "Company": "Waves",
+    "Name": "Mobile App Developer",
+    "Salary": "650-1100",
+    "Reward": 10500000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/mobile-app-developer-492.html"
+  },
+  {
+    "CreatedDate": "2019-09-09T16:24:00.000Z",
+    "Company": "Uiza",
+    "Name": "Senior Technical Product Manager",
+    "Salary": "1000-2500",
+    "Reward": 16000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-technical-product-manager-488.html"
+  },
+  {
+    "CreatedDate": "2019-09-06T15:25:00.000Z",
+    "Company": "Fram^",
+    "Name": "Fullstack .NET Engineer",
+    "Salary": "1500-2000",
+    "Reward": 24000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/fullstack-net-engineer-483.html"
+  },
+  {
+    "CreatedDate": "2019-09-06T15:02:00.000Z",
+    "Company": "Aversafe",
+    "Name": "Senior Sale Executive",
+    "Salary": "600-850",
+    "Reward": 10000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-sale-executive-479.html"
+  },
+  {
+    "CreatedDate": "2019-09-05T11:32:00.000Z",
+    "Company": "GiggedIn",
+    "Name": "Senior Mobile React Native Developer",
+    "Salary": "1400-1800",
+    "Reward": 23000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-mobile-react-native-developer-475.html"
+  },
+  {
+    "CreatedDate": "2019-09-03T17:51:00.000Z",
+    "Company": "LG Vietnam",
+    "Name": "Senior C or C++ SOFTWARE ENGINEER",
+    "Salary": "1000-2000",
+    "Reward": 16000000,
+    "City": "HN",
+    "Link": "https://recruitery.co/job/senior-c-or-c-software-engineer-471.html"
+  },
+  {
+    "CreatedDate": "2019-09-03T17:04:00.000Z",
+    "Company": "LG Vietnam",
+    "Name": "C or C++ SOFTWARE ENGINEER",
+    "Salary": "560-1000",
+    "Reward": 9000000,
+    "City": "HN",
+    "Link": "https://recruitery.co/job/c-or-c-software-engineer-470.html"
+  },
+  {
+    "CreatedDate": "2019-09-03T13:16:00.000Z",
+    "Company": "Uiza",
+    "Name": "Senior API-backend engineer",
+    "Salary": "1000-2000",
+    "Reward": 16000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-api-backend-engineer-467.html"
+  },
+  {
+    "CreatedDate": "2019-09-03T12:08:00.000Z",
+    "Company": "Uiza",
+    "Name": "API-backend engineer",
+    "Salary": "600-1000",
+    "Reward": 10000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/api-backend-engineer-465.html"
+  },
+  {
+    "CreatedDate": "2019-08-31T15:57:00.000Z",
+    "Company": "Uiza",
+    "Name": "Senior Site Reliability Engineer",
+    "Salary": "1000-2100",
+    "Reward": 16000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-site-reliability-engineer-461.html"
+  },
+  {
+    "CreatedDate": "2019-08-30T15:16:00.000Z",
+    "Company": "Uiza",
+    "Name": "Site Reliability Engineer",
+    "Salary": "700-1000",
+    "Reward": 11000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/site-reliability-engineer-456.html"
+  },
+  {
+    "CreatedDate": "2019-08-20T12:05:00.000Z",
+    "Company": "Uiza",
+    "Name": "Mid - Senior QA Automation Engineer",
+    "Salary": "1000-1700",
+    "Reward": 20000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/mid-senior-qa-automation-engineer-430.html"
+  },
+  {
+    "CreatedDate": "2019-08-08T15:08:00.000Z",
+    "Company": "Edu2Review",
+    "Name": "Back-end Developer PHP and Go (System Architecture)",
+    "Salary": "2500-5000",
+    "Reward": 40600000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/back-end-developer-php-and-go-system-architecture--411.html"
+  },
+  {
+    "CreatedDate": "2019-08-08T14:40:00.000Z",
+    "Company": "Edu2Review",
+    "Name": "Back-end Developer PHP and Go (Senior)",
+    "Salary": "1000-2500",
+    "Reward": 20000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/back-end-developer-php-and-go-senior--410.html"
+  },
+  {
+    "CreatedDate": "2019-08-05T14:42:00.000Z",
+    "Company": "OYO",
+    "Name": "Transformation Lead - Renovation Lead - Project Lead",
+    "Salary": "736-1600",
+    "Reward": 12000000,
+    "City": "NT ",
+    "Link": "https://recruitery.co/job/transformation-lead-renovation-lead-project-lead-406.html"
+  },
+  {
+    "CreatedDate": "2019-08-03T16:12:00.000Z",
+    "Company": "UP",
+    "Name": "TRƯỞNG PHÒNG PHÁP CHẾ",
+    "Salary": "860-0",
+    "Reward": 14000000,
+    "City": "HN",
+    "Link": "https://recruitery.co/job/truong-phong-phap-che-405.html"
+  },
+  {
+    "CreatedDate": "2019-08-01T17:06:00.000Z",
+    "Company": "Holistics Software",
+    "Name": "Product Analyst (Middle)",
+    "Salary": "800-1300",
+    "Reward": 13000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/product-analyst-middle--402.html"
+  },
+  {
+    "CreatedDate": "2019-08-01T16:57:00.000Z",
+    "Company": "Holistics Software",
+    "Name": "Fullstack Engineer (Middle)",
+    "Salary": "800-1500",
+    "Reward": 13000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/fullstack-engineer-middle--401.html"
+  },
+  {
+    "CreatedDate": "2019-08-01T15:27:00.000Z",
+    "Company": "Holistics Software",
+    "Name": "Fullstack Engineer (Junior)",
+    "Salary": "500-800",
+    "Reward": 8100000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/fullstack-engineer-junior--398.html"
+  },
+  {
+    "CreatedDate": "2019-08-01T15:16:00.000Z",
+    "Company": "Holistics Software",
+    "Name": "Product Analyst (Junior) ",
+    "Salary": "500-800",
+    "Reward": 8100000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/product-analyst-junior--397.html"
+  },
+  {
+    "CreatedDate": "2019-08-01T15:01:00.000Z",
+    "Company": "Holistics Software",
+    "Name": "Product UX Designer (Junior/Middle) ",
+    "Salary": "800-1500",
+    "Reward": 8100000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/product-ux-designer-junior-middle--396.html"
+  },
+  {
+    "CreatedDate": "2019-07-29T18:06:00.000Z",
+    "Company": "OYO",
+    "Name": "Business Development Manager (Đà Nẵng, Hội An) ",
+    "Salary": "730-1300",
+    "Reward": 12000000,
+    "City": "DN",
+    "Link": "https://recruitery.co/job/business-development-manager-da-nang-hoi-an--392.html"
+  },
+  {
+    "CreatedDate": "2019-07-26T19:31:00.000Z",
+    "Company": "UP",
+    "Name": "Quản lý phòng Gym",
+    "Salary": "450-680",
+    "Reward": 7400000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/quan-ly-phong-gym-385.html"
+  },
+  {
+    "CreatedDate": "2019-07-17T09:01:00.000Z",
+    "Company": "Logivan",
+    "Name": "Senior Backend Engineer (Ruby on Rails/SQL)",
+    "Salary": "1000-2000",
+    "Reward": 23000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-backend-engineer-ruby-on-rails-sql--372.html"
+  },
+  {
+    "CreatedDate": "2019-07-17T08:58:00.000Z",
+    "Company": "Logivan",
+    "Name": "Senior React Native (iOS/Android)",
+    "Salary": "1000-2000",
+    "Reward": 23000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-react-native-ios-android--371.html"
+  },
+  {
+    "CreatedDate": "2019-07-17T08:58:00.000Z",
+    "Company": "Logivan",
+    "Name": "Senior React Native (iOS/Android)",
+    "Salary": "1000-2000",
+    "Reward": 23000000,
+    "City": "HN",
+    "Link": "https://recruitery.co/job/senior-react-native-ios-android--371.html"
+  },
+  {
+    "CreatedDate": "2019-07-15T12:33:00.000Z",
+    "Company": "Bcnex",
+    "Name": "Accountant cum HR ",
+    "Salary": "300-0",
+    "Reward": 4000000,
+    "City": "HN",
+    "Link": "https://recruitery.co/job/accountant-cum-hr-363.html"
+  },
+  {
+    "CreatedDate": "2019-07-01T12:27:00.000Z",
+    "Company": "Vred",
+    "Name": "Senior Backend Engineer Nodejs",
+    "Salary": "980-1500",
+    "Reward": 16100000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-backend-engineer-nodejs-349.html"
+  },
+  {
+    "CreatedDate": "2019-07-01T12:17:00.000Z",
+    "Company": "Vred",
+    "Name": "Senior Mobile Engineer React Native",
+    "Salary": "640-1030",
+    "Reward": 10500000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-mobile-engineer-react-native-348.html"
+  },
+  {
+    "CreatedDate": "2019-06-28T15:18:00.000Z",
+    "Company": "MPC Asset",
+    "Name": "Odoo developer",
+    "Salary": "800-1500",
+    "Reward": 13000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/odoo-developer-345.html"
+  },
+  {
+    "CreatedDate": "2019-06-28T15:09:00.000Z",
+    "Company": "MPC Asset",
+    "Name": "Back-end Python",
+    "Salary": "800-1500",
+    "Reward": 13000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/back-end-python-343.html"
+  },
+  {
+    "CreatedDate": "2019-06-19T10:53:00.000Z",
+    "Company": "SotaTek JSC",
+    "Name": "Nodejs Developer ",
+    "Salary": "700-1200",
+    "Reward": 11500000,
+    "City": "HN",
+    "Link": "https://recruitery.co/job/nodejs-developer-334.html"
+  },
+  {
+    "CreatedDate": "2019-06-14T12:11:00.000Z",
+    "Company": "VNG Corp",
+    "Name": "BUSINESS OWNER, PAYMENT BUSINESS",
+    "Salary": "4000-6000",
+    "Reward": 65000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/business-owner-payment-business-319.html"
+  },
+  {
+    "CreatedDate": "2019-04-24T15:08:00.000Z",
+    "Company": "Uiza",
+    "Name": "Senior Data Engineer - DataWarehouse",
+    "Salary": "2000-3000",
+    "Reward": 20000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/senior-data-engineer-datawarehouse-238.html"
+  },
+  {
+    "CreatedDate": "2019-04-20T23:09:00.000Z",
+    "Company": "Beeva Media",
+    "Name": "Mobile Developer (React Native, NodeJS)",
+    "Salary": "650-900",
+    "Reward": 8000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/mobile-developer-react-native-nodejs--234.html"
+  },
+  {
+    "CreatedDate": "2019-04-19T16:56:00.000Z",
+    "Company": "Vred",
+    "Name": "Operations Manager",
+    "Salary": "1000-1500",
+    "Reward": 20000000,
+    "City": "HCM",
+    "Link": "https://recruitery.co/job/operations-manager-233.html"
+  },
+  {
+    "CreatedDate": "2019-03-21T18:48:00.000Z",
+    "Company": "Scuti",
+    "Name": "Kỹ Sư Cầu Nối- BrSE",
+    "Salary": "2000-0",
+    "Reward": 20000000,
+    "City": "HN",
+    "Link": "https://recruitery.co/job/ky-su-cau-noi-brse-188.html"
+  }
+]
